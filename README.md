@@ -32,7 +32,7 @@ Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades. M
 ¡No dudes en contactarme si tienes alguna pregunta o si estás interesado en colaborar!
 
 - 📧 Email: [itrevixx@gmail.com](mailto:tu-email@ejemplo.com)
-- 🌐 LinkedIn: [tu-linkedin](https://www.linkedin.com/in/tu-linkedin)
+- 🌐 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergi-9413172b7/)
 - 💼 Portfolio: [tu-portfolio](https://tu-portfolio.com)
 
 ¡Gracias por visitar mi perfil y espero que disfrutes explorando mis proyectos!
