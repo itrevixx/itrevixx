@@ -33,6 +33,6 @@ Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades. M
 
 - 📧 Email: [itrevixx@gmail.com](mailto:tu-email@ejemplo.com)
 - 🌐 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergi-9413172b7/)
-- 💼 Portfolio: [tu-portfolio]([https://tu-portfolio.com](https://portafolio-sergi.vercel.app))
+- 💼 Portfolio: [pulsa aquí]([https://tu-portfolio.com](https://portafolio-sergi.vercel.app))
 
 ¡Gracias por visitar mi perfil y espero que disfrutes explorando mis proyectos!
