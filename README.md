@@ -22,6 +22,7 @@
 Aquí puedes explorar algunos de mis proyectos grupales, personales y académicos:
 
 - [**PURGARTIO**](https://www.purgatio.es) - Juego para jugar con amigos o desconocidos en el que tendrás que adivinar el pecado de los demás. Si aciertas, la persona debe enfrentarse a un castigo.
+- [**Rick&Morti**](https://api-rick-morty-theta.vercel.app) - Enciclopedia de los personajes de rick y morty. 
 
 ## 📈 Mi Filosofía
 
